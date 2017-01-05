@@ -37,9 +37,4 @@ public class LoginPage {
 	}
 	
 	
-<<<<<<< HEAD
-	
-	
 }
-=======
->>>>>>> 33e4fe650e162d73b29c57d8c26f3aa0899bebb1

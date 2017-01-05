@@ -98,9 +98,4 @@ public class ProjectCreationPage {
 	@FindBy(id="ctl00_MainContent_Tabs_TabPanel2_FormViewResources_GridViewUsers_ctl08_btnUserName")
 	private WebElement selemps;
 	
-<<<<<<< HEAD
-=======
-	//Modified Now
->>>>>>> 33e4fe650e162d73b29c57d8c26f3aa0899bebb1
-	
 }

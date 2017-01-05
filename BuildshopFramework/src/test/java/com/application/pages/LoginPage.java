@@ -16,7 +16,7 @@ public class LoginPage {
 	
 	@FindBy (xpath="//div[@class='hpmenu']/..//a[@class='headerLinksHP']")
 	private WebElement welcomePageSignInLink;
-	
+	   
 	@FindBy (id="ctl00_ContentPlaceHolder1_Login101_UserName")
 	private WebElement usernameTextField;
 	

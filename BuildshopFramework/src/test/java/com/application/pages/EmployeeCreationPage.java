@@ -40,7 +40,6 @@ public class EmployeeCreationPage
 	
 	public void createUser()
 	{
-		//
 		Select select = new Select(userTypeDropDown);
 		select.selectByVisibleText("Employee");
 		userNameTextField.sendKeys("Devis");

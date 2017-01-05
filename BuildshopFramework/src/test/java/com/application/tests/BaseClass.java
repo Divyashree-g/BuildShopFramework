@@ -38,6 +38,7 @@ import com.relevantcodes.extentreports.LogStatus;
 //Comment
 public class BaseClass {
 	//New Comment Updated
+	//Another comment
 	String extentReportFile;
 	ExtentReports extent;
 	WebDriver wdriver;

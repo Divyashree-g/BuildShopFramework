@@ -8,7 +8,6 @@ import org.openqa.selenium.support.ui.Select;
 
 public class EmployeeCreationPage 
 {
-// update
 	public EmployeeCreationPage(WebDriver driver)
 	{
 		

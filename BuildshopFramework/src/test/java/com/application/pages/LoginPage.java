@@ -7,17 +7,10 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage {
 
-<<<<<<< HEAD
 	//WebDriver driver;
-	public LoginPage(WebDriver driver)
-	{
-		//this.driver = driver;
-=======
- 	
 
 	public LoginPage(WebDriver driver)
 	{
->>>>>>> dc068d767f6ef2e7478bc5fee61f2b97df03c24e
 		PageFactory.initElements(driver, this);
 	}
 	
@@ -26,36 +19,20 @@ public class LoginPage {
 	   
 	@FindBy (id="ctl00_ContentPlaceHolder1_Login101_UserName")
 	private WebElement usernameTextField;
-<<<<<<< HEAD
-	
-=======
 
->>>>>>> dc068d767f6ef2e7478bc5fee61f2b97df03c24e
 	@FindBy (id="ctl00_ContentPlaceHolder1_Login101_Password")
 	private WebElement passwordTextField;
 	
 	@FindBy (id="ctl00_ContentPlaceHolder1_Login101_Submit2")
 	private WebElement loginPageSignInButton;
-<<<<<<< HEAD
 
-=======
-		  
->>>>>>> dc068d767f6ef2e7478bc5fee61f2b97df03c24e
 	public void loginToApplication()
 	{
 		welcomePageSignInLink.click();
 		usernameTextField.sendKeys("Bill Thomas");
 		passwordTextField.sendKeys("Bill1234");
 		loginPageSignInButton.click();
-		
-		
+				
 	}
-	
-	
-<<<<<<< HEAD
-	
-	
+
 }
-=======
-}
->>>>>>> dc068d767f6ef2e7478bc5fee61f2b97df03c24e

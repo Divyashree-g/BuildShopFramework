@@ -971,3 +971,7 @@
 2017-01-05 16:11:12,284 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BS_Demo\BuildshopFramework\src\main\resources
 2017-01-05 16:11:12,297 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-01-05 16:11:12,299 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BS_Demo\BuildshopFramework\src\test\resources
+2017-01-05 16:17:48,258 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-05 16:17:48,260 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BS_Demo\BuildshopFramework\src\main\resources
+2017-01-05 16:17:48,268 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-05 16:17:48,271 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\BS_Demo\BuildshopFramework\src\test\resources

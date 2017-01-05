@@ -26,7 +26,7 @@ public class LoginPage {
 	@FindBy (id="ctl00_ContentPlaceHolder1_Login101_Submit2")
 	private WebElement loginPageSignInButton;
 	
-	
+	   
 	public void loginToApplication()
 	{
 		welcomePageSignInLink.click();

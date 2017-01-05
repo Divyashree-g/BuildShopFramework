@@ -1,0 +1,18 @@
+package com.application.tests;
+
+import org.testng.annotations.Test;
+
+import com.application.pages.EmployeeCreationPage;
+import com.application.pages.LoginPage;
+
+public class Demo extends BaseClass{
+	@Test
+	public void methodDemo()
+	{
+		LoginPage l =new LoginPage(driver);
+		l.loginToApplication();
+		EmployeeCreationPage emp= new EmployeeCreationPage(driver);
+		emp.createUser();
+	}
+
+}
